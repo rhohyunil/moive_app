@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moive_app/static/css/main.1a6dc005.chunk.css",
+    "main.js": "/moive_app/static/js/main.5db1ac63.chunk.js",
+    "main.js.map": "/moive_app/static/js/main.5db1ac63.chunk.js.map",
+    "runtime-main.js": "/moive_app/static/js/runtime-main.2ec614c7.js",
+    "runtime-main.js.map": "/moive_app/static/js/runtime-main.2ec614c7.js.map",
+    "static/js/2.03729dac.chunk.js": "/moive_app/static/js/2.03729dac.chunk.js",
+    "static/js/2.03729dac.chunk.js.map": "/moive_app/static/js/2.03729dac.chunk.js.map",
+    "index.html": "/moive_app/index.html",
+    "precache-manifest.92dc11dd48dd4d11df2d89320f8cf0ba.js": "/moive_app/precache-manifest.92dc11dd48dd4d11df2d89320f8cf0ba.js",
+    "service-worker.js": "/moive_app/service-worker.js",
+    "static/css/main.1a6dc005.chunk.css.map": "/moive_app/static/css/main.1a6dc005.chunk.css.map",
+    "static/js/2.03729dac.chunk.js.LICENSE.txt": "/moive_app/static/js/2.03729dac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ec614c7.js",
+    "static/js/2.03729dac.chunk.js",
+    "static/css/main.1a6dc005.chunk.css",
+    "static/js/main.5db1ac63.chunk.js"
+  ]
+}
